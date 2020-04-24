@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.exercubeprototype.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "A:\\DATEN\\_AktuelleProjekte\\Sphery\\Design\\Games\\CubePrototype\\ExerCubePrototypes\\ExerCubePrototype\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ExerCubePrototype [Testing]"
+        }
+      }
+    }
+  ]
+}
